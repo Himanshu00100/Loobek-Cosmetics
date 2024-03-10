@@ -1,2 +1,2 @@
  E commerce for cosmetics 
- Create usingb tailwind Css 
+ Created using tailwind Css 
